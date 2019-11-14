@@ -2,6 +2,7 @@
 Upgrade Innfos Actuator with Linux command line.
 
 For commandline: 
+
 -r: read all connected Innfos Actuator. 
 ./ActuatorUpgrade -r
 
